@@ -3,7 +3,7 @@
     <h2>Hey there! I'm Joseph</h2>
 </div>
 
-## 👨🏻‍💻 &nbsp;About Me 💫
+### 👨🏻‍💻 &nbsp;About Me 💫
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the private university of Oruro-unior.\
@@ -13,11 +13,7 @@
 ✉️ &nbsp;You can shoot me an email at Choque151.jlc@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.linkedin.com/in/jose-luis-choquevillca/) for more details about me. I'm open to feedback and suggestions!
 
----
-
-
-
-## 💻 Tech Stack: 🛠 
+### 💻 Tech Stack: 🛠 
 
 <p align="center">
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25">
@@ -57,7 +53,7 @@ height="25">
 
 </p>
 
-## ⚙️ GitHub Analytics: 📊
+### ⚙️ GitHub Analytics: 📊
 
 <p align="center">
   <a href="https://github.com/ByChokeYT">
@@ -66,15 +62,14 @@ height="25">
   </a>
 </p>
 
-
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ByChokeYT&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 ### 🤝🏻 &nbsp;Connect with Me 🌐
 
 [![Discord](https://img.shields.io/badge/ByChokeYT-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/6EzCaw8M) [![Facebook](https://img.shields.io/badge/Jhoseph%20Choquevillca-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jose.choquevillca1) [![Instagram](https://img.shields.io/badge/by.Choke-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/By_choke) [![LinkedIn](https://img.shields.io/badge/Choquevillca-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-luis-choquevillca) [![Reddit](https://img.shields.io/badge/FullStarck-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/r/FullStackChart) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ByChoke) [![YouTube](https://img.shields.io/badge/ByChoqueYT-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bychoke) [![Codepen](https://img.shields.io/badge/ByChoke-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ByChokeYT) 
 
 ---
-  ## 💰 You can help me by Donating
+  ### 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/bychoke?country.x=CL&locale.x=es_XC) [![](https://visitcount.itsvg.in/api?id=ByChokeYT&icon=3&color=5)](https://visitcount.itsvg.in)  
 
 <!-- Proudly created with ByChoke (https://github.com/ByChokeYT/Icono_Portafolio.git) -->
