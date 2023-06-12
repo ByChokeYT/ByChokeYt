@@ -15,8 +15,9 @@
 
 ---
 
+
+
 ## 💻 Tech Stack: 🛠 
- <img height="180" src="https://github.com/ByChokeYT/ByChokeYt/blob/main/assets/Night-Coding.gif?raw=true">
 
 <p align="center">
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25">
@@ -52,11 +53,12 @@ height="25">
   height="25">
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
   height="25">
+   <img height="180" src="https://github.com/ByChokeYT/ByChokeYt/blob/main/assets/Night-Coding.gif?raw=true">
+
 </p>
 
-# ⚙️ GitHub Analytics: 📊
+## ⚙️ GitHub Analytics: 📊
 
----
 <p align="center">
   <a href="https://github.com/ByChokeYT">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ByChokeYT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
