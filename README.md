@@ -1,3 +1,5 @@
+![portada](https://github.com/ByChokeYT/ByChokeYt/blob/main/assets/Banner-bychoke.gif)
+
 <div>
     <img alt="Night Coding" src="https://github.com/ByChokeYT/ByChokeYt/blob/main/assets/Hand%20Wave.gif?raw=true" width="40" align="left">
     <h2>Hey there! I'm Joseph</h2>
@@ -62,8 +64,7 @@ height="25">
   </a>
 </p>
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ByChokeYT&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
 ### 🤝🏻 &nbsp;Connect with Me 🌐
 
 [![Discord](https://img.shields.io/badge/ByChokeYT-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/6EzCaw8M) [![Facebook](https://img.shields.io/badge/Jhoseph%20Choquevillca-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jose.choquevillca1) [![Instagram](https://img.shields.io/badge/by.Choke-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/By_choke) [![LinkedIn](https://img.shields.io/badge/Choquevillca-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-luis-choquevillca) [![Reddit](https://img.shields.io/badge/FullStarck-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/r/FullStackChart) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ByChoke) [![YouTube](https://img.shields.io/badge/ByChoqueYT-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bychoke) [![Codepen](https://img.shields.io/badge/ByChoke-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ByChokeYT) 
