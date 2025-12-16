@@ -133,6 +133,7 @@ Nota: Si deseas editar la tabla más tarde, simplemente cambia los enlaces href 
 ## 👾 Redes Sociales
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-luis-choquevillca)
+[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Choque151.jlc@gmail.com)
 [![](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ByChokeYT)
 [![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/@ByChoke)
 [![](https://komarev.com/ghpvc/?username=ByChokeYT&style=for-the-badge&color=red&abbreviated=true)](https://github.com/ByChokeYT)
